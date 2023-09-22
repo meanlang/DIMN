@@ -14,5 +14,5 @@ In the DFM, to better utilize the latent information in images (such as handheld
 We utilized the Cross-Entropy (CE) loss function and the Hard Triplet (HTP) loss function as training aids. For further details, please refer to the main text.<br>
 We employed an RTX 4090 GPU to accelerate the training process. The platform was set up on Windows 10, and we primarily utilized PyTorch as the framework. We configured the batch size to 128 and opted for the SGD optimizer. Furthermore, we conducted experiments on two widely available datasets, Market1501 and DukeMTMC, both of which are open-source and available for download. Here are our training results on Market1501:<br>
 <div align=center>
-![](https://github.com/meanlang/DIMN/blob/main/images/result.png)<br>
+![]https://github.com/meanlang/DIMN/blob/main/images/result.png<br>
 </div>
